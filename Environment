@@ -1,0 +1,4 @@
+SESSION_ID=your_session_string_here
+PREFIX=.
+OWNER_NUMBER=234XXXXXXXXXX
+BOT_NAME=Innocent Bot
