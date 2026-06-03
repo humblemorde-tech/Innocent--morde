@@ -1,0 +1,13 @@
+{
+  "name": "innocent-morde",
+  "version": "1.0.0",
+  "description": "The opponent is anonymous",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.7",
+    "@hapi/boom": "^10.0.1"
+  }
+}
